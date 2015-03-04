@@ -1,0 +1,10 @@
+[
+  "hubot-diagnostics",
+  "hubot-help",
+  "hubot-google-images",
+  "hubot-redis-brain",
+  "hubot-rules",
+	"hubot-dogeme",
+  "hubot-youtube",
+	"hubot-plusplus"
+]
